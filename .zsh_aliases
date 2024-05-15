@@ -1,0 +1,8 @@
+alias ls='colorls'
+alias lsa='ls -a'
+alias l='ls -lh'
+alias la='ls -lah'
+alias rcat=$(which cat)
+alias cat=$(which batcat)
+alias catx='cat -p'
+alias dvm='~/.dotnet/dotnet-install.sh'

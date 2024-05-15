@@ -10,3 +10,4 @@
 ./08-colorls.sh
 ./09-nvm.sh
 ./10-dotnet.sh
+./11-fzf.sh

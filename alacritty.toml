@@ -43,6 +43,11 @@ y = 15
 [shell]
 program = "/bin/zsh"
 
+[keyboard]
+bindings = [
+  { key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
+]
+
 # Colors (Tokyo Night)
 # Source https//github.com/zatchheems/tokyo-night-alacritty-theme
 

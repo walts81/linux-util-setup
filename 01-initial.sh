@@ -15,4 +15,5 @@ sudo apt install -y \
 	python3 \
 	scdoc \
 	build-essential \
+	fd-find \
 	bat

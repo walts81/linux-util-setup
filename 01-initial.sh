@@ -1,19 +1,21 @@
 #!/bin/bash
 
-sudo apt update
-sudo apt install -y \
+sudo pacman -Sy \
 	curl \
 	wget \
 	git \
 	zsh \
 	cmake \
 	pkg-config \
-	libfreetype6-dev \
-	libfontconfig1-dev \
-	libxcb-xfixes0-dev \
-	libxkbcommon-dev \
 	python3 \
 	scdoc \
-	build-essential \
-	fd-find \
+	base-devel \
+	cmake \
+	freetype2 \
+	fontconfig \
+	pkg-config \
+	make \
+	libxcb \
+	libxkbcommon \
+	python \
 	bat

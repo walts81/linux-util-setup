@@ -14,4 +14,5 @@ sudo apt install -y \
 	libxkbcommon-dev \
 	python3 \
 	scdoc \
+	build-essential \
 	bat

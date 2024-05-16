@@ -1,7 +1,6 @@
 #!/bin/bash
 
-./01-initial.sh
-./02-oh-my-zsh.sh
+./02-oh-my-zsh_PART_2.sh
 ./03-nerd-fonts.sh
 ./04-alacritty.sh
 ./05-powerlevel10k.sh
